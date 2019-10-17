@@ -1,5 +1,5 @@
 {
-  "name": "socialseeder-cordova-instagram-plugin",
+  "name": "cordova-instagram-plugin-socialseeder",
   "version": "0.6.0",
   "description": "Share the content of a canvas element or a dataUrl encoded image using the Instagram application for iOS and Android.",
   "cordova": {
