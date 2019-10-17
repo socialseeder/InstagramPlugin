@@ -1,5 +1,5 @@
 {
-  "name": "cordova-instagram-plugin",
+  "name": "socialseeder-cordova-instagram-plugin",
   "version": "0.6.0",
   "description": "Share the content of a canvas element or a dataUrl encoded image using the Instagram application for iOS and Android.",
   "cordova": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vstirbu/InstagramPlugin.git"
+    "url": "git+https://github.com/socialseeder/InstagramPlugin.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -24,10 +24,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Vlad Stirbu",
+  "author": "Admin Social Seeder",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vstirbu/InstagramPlugin/issues"
+    "url": "https://github.com/socialseeder/InstagramPlugin/issues"
   },
-  "homepage": "https://github.com/vstirbu/InstagramPlugin#readme"
+  "homepage": "https://github.com/socialseeder/InstagramPlugin#readme"
 }
